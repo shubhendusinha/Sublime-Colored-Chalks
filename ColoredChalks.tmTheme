@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 ======================================================================
-Colored Chalks 
+Array 
 ======================================================================
 A Sublime Text dark theme.
-Created by Shubhendu Sinha.
+Created by George Kampolis.
 Anyone is free to do what they wish with this theme.
 If you change it, do NOT keep my name as a creator.
 ======================================================================
@@ -62,7 +62,7 @@ If you change it, do NOT keep my name as a creator.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bf80ff</string>
+				<string>#C669FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -84,7 +84,7 @@ If you change it, do NOT keep my name as a creator.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66a3ff</string>
+				<string>#66ccff</string>
 			</dict>
 		</dict>
 
@@ -107,7 +107,7 @@ If you change it, do NOT keep my name as a creator.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#990099</string>
+				<string>#ff33cc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +118,7 @@ If you change it, do NOT keep my name as a creator.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66ff66</string>
+				<string>#00ec8f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -142,7 +142,7 @@ If you change it, do NOT keep my name as a creator.
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff3333</string>
+				<string>#8F7AFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -155,7 +155,7 @@ If you change it, do NOT keep my name as a creator.
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#ff0066</string>
+				<string>#66ccff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,7 +194,7 @@ If you change it, do NOT keep my name as a creator.
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffa31a</string>
+				<string>#F5B041</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,7 +246,7 @@ If you change it, do NOT keep my name as a creator.
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff9966</string>
+				<string>#E67E22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -272,7 +272,7 @@ If you change it, do NOT keep my name as a creator.
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#ff4444</string>
+				<string>#E67E22</string>
 			</dict>
 		</dict>
 		<dict>

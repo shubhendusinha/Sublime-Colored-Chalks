@@ -20,7 +20,7 @@ If you change it, do NOT keep my name as a creator.
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#404040</string>
+				<string>#494949</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -62,7 +62,7 @@ If you change it, do NOT keep my name as a creator.
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C669FF</string>
+				<string>#c653c6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -142,7 +142,7 @@ If you change it, do NOT keep my name as a creator.
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8F7AFF</string>
+				<string>#b366ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,7 +194,7 @@ If you change it, do NOT keep my name as a creator.
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F5B041</string>
+				<string>#ffcc66</string>
 			</dict>
 		</dict>
 		<dict>
